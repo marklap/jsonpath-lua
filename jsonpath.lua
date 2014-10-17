@@ -183,7 +183,7 @@ local function collect_ident(path, i, sep, with_ident)
 
     local c = nil
     local buf = {""}
-    local sep_is_table = type(sep) == JP_TYP_TABLE
+    local sep_is_table = type(sep) == JP_TYPE_TABLE
     if not sep_is_table then
         sep = {sep}
     end
@@ -585,8 +585,8 @@ local function find(json_path, json_obj)
         error("expecting string or JSONPath (table) for json_path")
     end
 
-    if json_obj_type ~= JP_TYP_TABLE then
-        error("expecting table for json_obj")
+    if json_obj_type ~= JP_TYPE_TABLE then
+        error("expecting table for json_obj - got: " .. json_obj_type)
     end
 
     local results = {}
