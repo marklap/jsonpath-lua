@@ -619,7 +619,7 @@ end
 
 
 local function main()
-    local json_file = "./search.json"
+    local json_file = "./test_complex.json"
     local json_fh = assert(io.open(json_file, "r"))
     local json_ok, json_obj
     if json_fh then

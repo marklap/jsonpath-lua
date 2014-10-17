@@ -1,0 +1,2976 @@
+[
+  {
+    "source_host": "prodapp207",
+    "event_id": "73add541-4748-47ba-bbeb-ba362e0c02cb",
+    "description": "Transaction failed on database proddb822 database quest using username moodyfr",
+    "impact": "important",
+    "owner": "KOZGENE",
+    "status": "inactive",
+    "tags": [
+      "culpa"
+    ],
+    "relationships": []
+  },
+  {
+    "source_host": "prodapp085",
+    "event_id": "0ff7170f-2003-4edb-a7b1-3ddda9a17cb6",
+    "description": "Transaction failed on database proddb079 database holy using username aguilarmo",
+    "impact": "minor",
+    "owner": "POSHOME",
+    "status": "active",
+    "tags": [
+      "Lorem",
+      "eu",
+      "magna",
+      "in",
+      "laboris"
+    ],
+    "relationships": [
+      {
+        "weight": 603.0764,
+        "id": "c141b4c3-27df-49d5-8a76-9b50e8b5d19b"
+      },
+      {
+        "weight": 630.5786,
+        "id": "86a4fb33-de6c-4e5c-bdb7-a55429699c59"
+      },
+      {
+        "weight": 479.5977,
+        "id": "a6cc5ba1-9ea2-4a7d-9690-5692ccb042ec"
+      },
+      {
+        "weight": 17.3483,
+        "id": "b1bd7131-2194-494b-8e7e-96d9eda0d46d"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp068",
+    "event_id": "8c853aa2-b2a1-4ca6-bbf9-9ee4d242fc00",
+    "description": "Connection refused from prodapp068:64114 to prodweb022:8080",
+    "impact": "important",
+    "owner": "PORTALIS",
+    "status": "active",
+    "tags": [
+      "incididunt",
+      "sunt",
+      "elit",
+      "nisi",
+      "ipsum"
+    ],
+    "relationships": [
+      {
+        "weight": 828.2705,
+        "id": "162c191c-2f31-4bfd-a865-77c530cd4b3c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp289",
+    "event_id": "056ab419-d825-4928-9545-4449d5b051d4",
+    "description": "Transaction failed on database proddb056 database python using username sellersbo",
+    "impact": "minor",
+    "owner": "ICOLOGY",
+    "status": "inactive",
+    "tags": [
+      "eiusmod",
+      "aliqua",
+      "incididunt",
+      "consequat",
+      "qui",
+      "anim"
+    ],
+    "relationships": [
+      {
+        "weight": 691.8476,
+        "id": "4207e645-5cdc-4fea-961f-33cf6b4ef1a1"
+      },
+      {
+        "weight": 673.0913,
+        "id": "f66cac0f-0b7f-4d40-824c-b486078cdd2d"
+      },
+      {
+        "weight": 232.4425,
+        "id": "e11b3dc2-e83a-4850-a979-c10ae640bea6"
+      },
+      {
+        "weight": 617.7879,
+        "id": "56476dcc-7de2-41e4-84f9-1cdafb08c8f0"
+      },
+      {
+        "weight": 336.4128,
+        "id": "85035686-4794-4023-ba27-a8101907ad35"
+      },
+      {
+        "weight": 886.2116,
+        "id": "be687939-2ab9-406e-9a84-ba937b05e495"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp755",
+    "event_id": "0baff110-a61f-413f-a670-357966bb2d2a",
+    "description": "Transaction failed on database proddb422 database grail using username davidka",
+    "impact": "critical",
+    "owner": "ENVIRE",
+    "status": "inactive",
+    "tags": [
+      "proident",
+      "non",
+      "nulla",
+      "et"
+    ],
+    "relationships": [
+      {
+        "weight": 442.7571,
+        "id": "a3cce928-0630-4ef2-951e-25e7ec633707"
+      },
+      {
+        "weight": 552.6306,
+        "id": "c06f732e-f3cd-48e4-8c3b-48bbeefc4129"
+      },
+      {
+        "weight": 609.4529,
+        "id": "799e3ccb-9f34-4c76-a14e-7b75da9ff792"
+      },
+      {
+        "weight": 791.631,
+        "id": "f899a143-3e91-4855-a92e-13cce3ae02c6"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp419",
+    "event_id": "8f71f01c-0299-445d-aad3-60052faa868a",
+    "description": "Transaction failed on database proddb430 database python using username lyonslo",
+    "impact": "important",
+    "owner": "POLARIUM",
+    "status": "inactive",
+    "tags": [
+      "non"
+    ],
+    "relationships": [
+      {
+        "weight": 802.6428,
+        "id": "3c7bf7ec-9434-43cd-98f9-c86a9cf52f4d"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp379",
+    "event_id": "990d2ef1-b41f-4a17-9633-17b410196b26",
+    "description": "Transaction failed on database proddb325 database grail using username ratliffhu",
+    "impact": "important",
+    "owner": "ENTROPIX",
+    "status": "active",
+    "tags": [
+      "laborum",
+      "anim",
+      "quis",
+      "eu",
+      "irure",
+      "voluptate"
+    ],
+    "relationships": [
+      {
+        "weight": 124.4699,
+        "id": "c9a5cc55-cac1-4786-abff-fcd422a5e39e"
+      },
+      {
+        "weight": 43.227,
+        "id": "693f0d56-6c5a-487d-9450-b4b11fe19256"
+      },
+      {
+        "weight": 734.3645,
+        "id": "f79fbdb2-fecc-4be5-b06f-1b2f39207e3d"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp828",
+    "event_id": "cac68dc3-248c-4229-9914-9a88c19c96f3",
+    "description": "Connection refused from prodapp828:25167 to prodweb953:8080",
+    "impact": "critical",
+    "owner": "MANTRO",
+    "status": "active",
+    "tags": [
+      "eu",
+      "et",
+      "enim",
+      "ipsum"
+    ],
+    "relationships": []
+  },
+  {
+    "source_host": "prodapp356",
+    "event_id": "e6a3739c-d430-4db8-9d47-61bf3cf15366",
+    "description": "Transaction failed on database proddb430 database monty using username kingro",
+    "impact": "minor",
+    "owner": "KOG",
+    "status": "active",
+    "tags": [
+      "officia",
+      "eu",
+      "eu",
+      "eu",
+      "aliqua",
+      "labore"
+    ],
+    "relationships": [
+      {
+        "weight": 276.025,
+        "id": "2fb38a5b-35db-4554-90ce-e4f23c42000b"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp354",
+    "event_id": "e8ee7601-62dc-41cf-b764-fa6764b5c48a",
+    "description": "Connection refused from prodapp354:21984 to prodweb545:80",
+    "impact": "minor",
+    "owner": "SPHERIX",
+    "status": "inactive",
+    "tags": [
+      "in",
+      "in",
+      "Lorem",
+      "officia",
+      "tempor",
+      "commodo"
+    ],
+    "relationships": [
+      {
+        "weight": 25.4038,
+        "id": "312d4e6b-2e1b-44a4-96cb-17e52a62d302"
+      },
+      {
+        "weight": 855.6874,
+        "id": "22199392-535d-4b31-af73-f6c351256813"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp177",
+    "event_id": "54f5be06-10ab-452b-a208-d20d33839b25",
+    "description": "Connection refused from prodapp177:47848 to prodweb586:80",
+    "impact": "minor",
+    "owner": "FRANSCENE",
+    "status": "active",
+    "tags": [
+      "ullamco",
+      "qui",
+      "aliquip",
+      "et",
+      "ullamco"
+    ],
+    "relationships": [
+      {
+        "weight": 859.205,
+        "id": "51be0283-f64f-4b25-adfb-78c61daaa1a9"
+      },
+      {
+        "weight": 597.8387,
+        "id": "039530e7-048d-4c0f-bd88-3d981b57a968"
+      },
+      {
+        "weight": 569.6947,
+        "id": "9f8a3adc-297a-4b07-913d-8e07fdcc1fc5"
+      },
+      {
+        "weight": 627.0614,
+        "id": "7d725c1d-eca5-4aad-8ab5-b573f371d7e3"
+      },
+      {
+        "weight": 568.7768,
+        "id": "7c53ace9-1f6c-441a-a300-18936b8340e1"
+      },
+      {
+        "weight": 55.6844,
+        "id": "3c4955b0-45c6-4dfb-9695-654d66664005"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp893",
+    "event_id": "d364f6c0-10ec-4811-aac8-296c81741807",
+    "description": "Connection refused from prodapp893:50065 to prodweb871:443",
+    "impact": "important",
+    "owner": "SULTRAX",
+    "status": "active",
+    "tags": [
+      "ex",
+      "proident",
+      "non",
+      "excepteur"
+    ],
+    "relationships": [
+      {
+        "weight": 971.091,
+        "id": "7d75175c-bf0c-4d78-8f01-478e842bcadf"
+      },
+      {
+        "weight": 208.6867,
+        "id": "54d86efd-a508-46d4-a97d-112932cbdf57"
+      },
+      {
+        "weight": 528.7087,
+        "id": "1eefd66f-6ba4-4e55-a540-d4096b4dc3fa"
+      },
+      {
+        "weight": 861.8657,
+        "id": "5e3f3973-d04f-4563-bb17-634ee0bcab67"
+      },
+      {
+        "weight": 312.6856,
+        "id": "efdb3296-51ec-4543-9c71-59c6ce68894c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp810",
+    "event_id": "e0a1a02d-30df-45da-8aa2-9c300aae3872",
+    "description": "Connection refused from prodapp810:58310 to prodweb761:8081",
+    "impact": "minor",
+    "owner": "ENORMO",
+    "status": "active",
+    "tags": [
+      "laborum",
+      "id",
+      "fugiat"
+    ],
+    "relationships": [
+      {
+        "weight": 768.8372,
+        "id": "513c640c-5339-481d-a24c-9ee8689a4ce3"
+      },
+      {
+        "weight": 195.7471,
+        "id": "7ac27a8f-f2ca-46da-b868-e109031aa95b"
+      },
+      {
+        "weight": 601.0063,
+        "id": "aa5dcd87-f0b0-4979-a1b5-55218988666a"
+      },
+      {
+        "weight": 707.4157,
+        "id": "aede7557-490f-4729-a27d-909899e9373e"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp872",
+    "event_id": "b03e600f-f8b4-4f8d-b093-59e7e7cf53cd",
+    "description": "Connection refused from prodapp872:25733 to prodweb722:8081",
+    "impact": "minor",
+    "owner": "NETROPIC",
+    "status": "inactive",
+    "tags": [
+      "sunt"
+    ],
+    "relationships": [
+      {
+        "weight": 773.6134,
+        "id": "738eaa64-ae34-4015-8e69-66ab03dad016"
+      },
+      {
+        "weight": 891.2696,
+        "id": "28b0fa78-6a00-4466-ae77-47578ca60b19"
+      },
+      {
+        "weight": 143.7541,
+        "id": "e7d19176-5cf0-446b-87c3-077816388bfa"
+      },
+      {
+        "weight": 359.6633,
+        "id": "147753bb-cb88-47e8-be97-019800dd2815"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp272",
+    "event_id": "7acce96b-4d55-4b68-8490-20ba03f9969d",
+    "description": "Connection refused from prodapp272:30034 to prodweb735:80",
+    "impact": "critical",
+    "owner": "MEDIOT",
+    "status": "active",
+    "tags": [
+      "minim"
+    ],
+    "relationships": [
+      {
+        "weight": 709.5927,
+        "id": "b643e0a9-6e7d-47d2-a2af-0a1903da4aef"
+      },
+      {
+        "weight": 444.0592,
+        "id": "b44d413f-f621-4c64-94e3-eb7364441181"
+      },
+      {
+        "weight": 64.6736,
+        "id": "14a40d8d-986c-4eba-aaaf-021ece8ecb07"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp809",
+    "event_id": "9627549b-4cae-404f-b68c-7a12d1b7d8b0",
+    "description": "Connection refused from prodapp809:15247 to prodweb073:8081",
+    "impact": "critical",
+    "owner": "BOVIS",
+    "status": "inactive",
+    "tags": [
+      "non",
+      "pariatur",
+      "nostrud",
+      "duis",
+      "voluptate"
+    ],
+    "relationships": [
+      {
+        "weight": 713.5603,
+        "id": "29e5f656-2229-42b2-ac55-7882e27c5544"
+      },
+      {
+        "weight": 497.4384,
+        "id": "e33a5e00-1f2f-4c56-b191-cc18e21e1062"
+      },
+      {
+        "weight": 309.9163,
+        "id": "8d43c49e-b9d7-4e8b-b89f-b440b2dc6f73"
+      },
+      {
+        "weight": 137.0012,
+        "id": "2ae1b03a-0375-4a6e-9a1e-096dc4110d3c"
+      },
+      {
+        "weight": 371.1014,
+        "id": "3a60723d-9fe8-4be6-bf40-632d675b7eb7"
+      },
+      {
+        "weight": 377.7326,
+        "id": "8d930c88-4d49-4a11-a89b-cdb85ef95772"
+      },
+      {
+        "weight": 720.2431,
+        "id": "3848a5de-1f26-4318-a01c-d696c0fa6240"
+      },
+      {
+        "weight": 284.8315,
+        "id": "a7cb9b3a-6e7b-41c8-9a1d-a05cd25d1aca"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp964",
+    "event_id": "da23181a-c884-47e5-bcfd-3c3d15253729",
+    "description": "Transaction failed on database proddb715 database holy using username cunninghammc",
+    "impact": "minor",
+    "owner": "PULZE",
+    "status": "inactive",
+    "tags": [
+      "dolore",
+      "nostrud",
+      "pariatur",
+      "duis"
+    ],
+    "relationships": [
+      {
+        "weight": 480.5724,
+        "id": "69241d8b-a1f1-4636-b947-721bbcb70b25"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp448",
+    "event_id": "d537dfa0-0576-4487-b6de-540161897ef1",
+    "description": "Transaction failed on database proddb887 database holy using username websterel",
+    "impact": "critical",
+    "owner": "COMTOURS",
+    "status": "active",
+    "tags": [
+      "incididunt",
+      "eu",
+      "anim",
+      "quis",
+      "commodo"
+    ],
+    "relationships": [
+      {
+        "weight": 723.6538,
+        "id": "6b249226-105b-4085-a6f4-ef4df422e145"
+      },
+      {
+        "weight": 265.636,
+        "id": "56b167eb-a3bc-4ae4-b303-2ca5c1b167f6"
+      },
+      {
+        "weight": 894.6314,
+        "id": "09bbf750-baca-4721-b74f-1eeb8b8b7720"
+      },
+      {
+        "weight": 977.3603,
+        "id": "0f0fa1cd-a070-468a-9b52-3b3ac6accfaa"
+      },
+      {
+        "weight": 102.1318,
+        "id": "749c8596-56bc-4a8d-ae40-85d500ec651b"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp410",
+    "event_id": "01235aa5-b90a-4b07-a51b-50c1ce84d338",
+    "description": "Transaction failed on database proddb972 database grail using username rosalescl",
+    "impact": "important",
+    "owner": "BITENDREX",
+    "status": "inactive",
+    "tags": [
+      "est",
+      "ex",
+      "mollit",
+      "aliqua"
+    ],
+    "relationships": [
+      {
+        "weight": 563.0413,
+        "id": "d7fecec6-2ae7-42be-ac1e-754526b28525"
+      },
+      {
+        "weight": 435.2442,
+        "id": "fa47e1a4-c5c0-43f0-8fdd-4d89878579f7"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp463",
+    "event_id": "f5804335-4032-4a91-ad66-d19acdcde2f6",
+    "description": "Connection refused from prodapp463:47398 to prodweb093:8081",
+    "impact": "minor",
+    "owner": "LETPRO",
+    "status": "active",
+    "tags": [
+      "deserunt",
+      "velit",
+      "labore",
+      "Lorem",
+      "consequat",
+      "nulla"
+    ],
+    "relationships": [
+      {
+        "weight": 778.7356,
+        "id": "d8d3aa2e-2065-47ca-8dbc-c333f8bff6c5"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp482",
+    "event_id": "f5f7c3f0-51c6-444b-865a-64d824964fdf",
+    "description": "Connection refused from prodapp482:34912 to prodweb021:8080",
+    "impact": "critical",
+    "owner": "ACCRUEX",
+    "status": "inactive",
+    "tags": [
+      "eu",
+      "deserunt",
+      "nostrud",
+      "non"
+    ],
+    "relationships": [
+      {
+        "weight": 75.1936,
+        "id": "5094a8c8-b3f5-495b-9e1b-0bb0d123d606"
+      },
+      {
+        "weight": 883.8544,
+        "id": "3a2c1c04-83a2-40db-a45a-657203989374"
+      },
+      {
+        "weight": 151.6287,
+        "id": "07e0491d-cc46-47fd-b4f4-59108eff3cfc"
+      },
+      {
+        "weight": 65.8283,
+        "id": "7e23d250-d153-4afe-b619-1dd8e211698c"
+      },
+      {
+        "weight": 964.6017,
+        "id": "a6a82ce3-6262-4538-a235-b6ae9f278878"
+      },
+      {
+        "weight": 516.911,
+        "id": "5d4f0c5e-66af-4d24-b417-c87cecbc0aba"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp785",
+    "event_id": "521be823-8d08-492f-a84b-d1f387647a98",
+    "description": "Connection refused from prodapp785:38764 to prodweb680:8080",
+    "impact": "important",
+    "owner": "VIRXO",
+    "status": "active",
+    "tags": [
+      "non",
+      "reprehenderit",
+      "ea",
+      "non",
+      "duis",
+      "sit"
+    ],
+    "relationships": [
+      {
+        "weight": 833.1664,
+        "id": "7532ad5d-fe37-49d8-961a-254df7cbd213"
+      },
+      {
+        "weight": 609.2017,
+        "id": "9a6cec66-3e1e-4e17-be98-c562824effa7"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp054",
+    "event_id": "e9ade59c-3e99-420a-82ad-dbef07cefb12",
+    "description": "Transaction failed on database proddb669 database grail using username reillyte",
+    "impact": "important",
+    "owner": "SAVVY",
+    "status": "inactive",
+    "tags": [
+      "do"
+    ],
+    "relationships": [
+      {
+        "weight": 235.8778,
+        "id": "156ea64b-a65e-4afd-ab25-73cde580815e"
+      },
+      {
+        "weight": 29.1257,
+        "id": "436dead2-8af1-402a-80a3-49ca464e86af"
+      },
+      {
+        "weight": 384.6416,
+        "id": "1448ffb2-74e1-4c65-8746-3a7c30a1db8d"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp391",
+    "event_id": "bedf2037-a065-444a-aa2f-9ce38c463d3a",
+    "description": "Connection refused from prodapp391:60683 to prodweb049:8080",
+    "impact": "critical",
+    "owner": "BIOHAB",
+    "status": "active",
+    "tags": [
+      "velit",
+      "id",
+      "laborum",
+      "ea"
+    ],
+    "relationships": [
+      {
+        "weight": 475.0571,
+        "id": "a2b000a9-4496-48c8-a249-bc2b44826305"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp902",
+    "event_id": "1e4261d9-328c-4218-8024-2fb523d1c67f",
+    "description": "Connection refused from prodapp902:59922 to prodweb142:8081",
+    "impact": "important",
+    "owner": "GRONK",
+    "status": "inactive",
+    "tags": [
+      "in",
+      "tempor",
+      "dolor"
+    ],
+    "relationships": [
+      {
+        "weight": 981.7552,
+        "id": "621d6754-6a45-4489-b410-9d91d6b2ec0a"
+      },
+      {
+        "weight": 229.7935,
+        "id": "cfbc5b0c-6e8c-42be-9902-d3cf91a658bc"
+      },
+      {
+        "weight": 391.5183,
+        "id": "ec302a38-4f57-40f9-bfc6-7d56620efffb"
+      },
+      {
+        "weight": 417.0759,
+        "id": "a84c80ff-273e-4ba0-ba79-4a5a31478956"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp388",
+    "event_id": "c90912cc-cd9a-4232-b77e-e818f5951dfe",
+    "description": "Transaction failed on database proddb276 database grail using username kaufmanre",
+    "impact": "minor",
+    "owner": "DECRATEX",
+    "status": "inactive",
+    "tags": [
+      "ullamco",
+      "eiusmod",
+      "qui",
+      "magna",
+      "ullamco",
+      "aliquip"
+    ],
+    "relationships": [
+      {
+        "weight": 559.7546,
+        "id": "03e65bf7-7e75-4be0-a791-f9ee3878aec3"
+      },
+      {
+        "weight": 257.3057,
+        "id": "bdae3b4f-316b-4d1e-a8bf-a17f64676734"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp837",
+    "event_id": "84865530-5434-4ebc-8e45-e8718042c986",
+    "description": "Transaction failed on database proddb532 database python using username stevensji",
+    "impact": "minor",
+    "owner": "BEZAL",
+    "status": "active",
+    "tags": [
+      "voluptate"
+    ],
+    "relationships": [
+      {
+        "weight": 695.9875,
+        "id": "a09bb382-4b8b-4106-bf2f-dfcd79dadc9f"
+      },
+      {
+        "weight": 370.8401,
+        "id": "4b82b60c-1f6f-45b9-902a-22cfe7e8f7c2"
+      },
+      {
+        "weight": 686.5919,
+        "id": "4b4d03b2-9a53-448b-b418-eb74fcabe770"
+      },
+      {
+        "weight": 774.6223,
+        "id": "f42dba98-8785-4a5f-9ac1-8c25f804bec3"
+      },
+      {
+        "weight": 439.7493,
+        "id": "098d91a7-e366-4f9e-939c-4a87b258acf2"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp395",
+    "event_id": "b55c57f7-24d9-4ada-a5e0-ea71d07e7858",
+    "description": "Connection refused from prodapp395:62559 to prodweb631:443",
+    "impact": "critical",
+    "owner": "DAISU",
+    "status": "active",
+    "tags": [
+      "sunt",
+      "ullamco",
+      "pariatur",
+      "anim",
+      "consectetur"
+    ],
+    "relationships": [
+      {
+        "weight": 575.4666,
+        "id": "03906e92-678f-4dae-a3bd-12743c6edbc5"
+      },
+      {
+        "weight": 521.6683,
+        "id": "25b35ad6-4cf7-44fd-bca0-81eb12248634"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp423",
+    "event_id": "0ba63e85-d6be-4ba2-8820-d783acc56225",
+    "description": "Transaction failed on database proddb805 database grail using username charlesfa",
+    "impact": "important",
+    "owner": "STEELTAB",
+    "status": "inactive",
+    "tags": [
+      "cillum",
+      "minim",
+      "Lorem",
+      "ut",
+      "cillum"
+    ],
+    "relationships": [
+      {
+        "weight": 969.8477,
+        "id": "4db56df7-2f5d-41f4-9ec2-b2ac11482151"
+      },
+      {
+        "weight": 376.7314,
+        "id": "cb135c52-1fbd-4248-8b99-1f59c9e7f8b4"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp213",
+    "event_id": "ecd70b55-6de2-4b89-a708-abceb1d1b0f3",
+    "description": "Connection refused from prodapp213:25197 to prodweb550:8081",
+    "impact": "critical",
+    "owner": "ZENTIA",
+    "status": "active",
+    "tags": [
+      "nostrud"
+    ],
+    "relationships": [
+      {
+        "weight": 873.4132,
+        "id": "bf9ba6c7-6603-4ebf-8b29-6224f8130e7d"
+      },
+      {
+        "weight": 701.5533,
+        "id": "80c9bacd-2ebd-4a90-9489-a8a47ba85843"
+      },
+      {
+        "weight": 115.6295,
+        "id": "90a65d1c-c0ba-4ceb-9bc5-87d7414aa797"
+      },
+      {
+        "weight": 302.706,
+        "id": "9a4792e3-309e-4e82-88e1-8b2565ed80d5"
+      },
+      {
+        "weight": 970.4461,
+        "id": "600708d5-ceb5-499c-8b06-350bee957a7a"
+      },
+      {
+        "weight": 617.254,
+        "id": "56f6fad7-eefb-4a90-b045-1ef34591026a"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp366",
+    "event_id": "6f9f6e6b-c7f6-4c22-b6c4-43ecac00e0f0",
+    "description": "Connection refused from prodapp366:34360 to prodweb157:8081",
+    "impact": "critical",
+    "owner": "TERAPRENE",
+    "status": "inactive",
+    "tags": [
+      "elit",
+      "dolor"
+    ],
+    "relationships": [
+      {
+        "weight": 662.9356,
+        "id": "d3d59dd4-1b93-4dcc-92e3-f1d5c9506fe0"
+      },
+      {
+        "weight": 801.2355,
+        "id": "372c6562-79d1-43e8-96a5-b74a65e6c864"
+      },
+      {
+        "weight": 816.316,
+        "id": "9da28fd5-64dd-4227-9580-9d41fc90ad4a"
+      },
+      {
+        "weight": 585.7412,
+        "id": "bb681091-a188-4754-a26d-a1bb8970ab4a"
+      },
+      {
+        "weight": 745.8746,
+        "id": "8b482efa-c310-49ef-bf56-585e66b93980"
+      },
+      {
+        "weight": 880.4112,
+        "id": "95a12193-cd39-4398-9c16-c1cde4ea19db"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp265",
+    "event_id": "1107c302-a87c-4894-9daf-3ee4216f1273",
+    "description": "Connection refused from prodapp265:50350 to prodweb094:8081",
+    "impact": "critical",
+    "owner": "KIOSK",
+    "status": "active",
+    "tags": [
+      "commodo",
+      "tempor",
+      "proident",
+      "consequat"
+    ],
+    "relationships": [
+      {
+        "weight": 859.1474,
+        "id": "25769e14-d899-4d76-8399-8f4953be8cd0"
+      },
+      {
+        "weight": 877.9097,
+        "id": "4c816ef9-2f80-40f4-a613-c01e84915484"
+      },
+      {
+        "weight": 818.3772,
+        "id": "8f17e9b3-696d-4622-a126-79f70a7be1d0"
+      },
+      {
+        "weight": 212.0926,
+        "id": "1deec883-2f64-4eb8-96bb-438a9772e52c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp396",
+    "event_id": "97e95dfe-6766-45a0-b790-55a4167ec9f3",
+    "description": "Transaction failed on database proddb524 database quest using username jenkinsme",
+    "impact": "minor",
+    "owner": "EARTHMARK",
+    "status": "active",
+    "tags": [
+      "ullamco",
+      "ullamco",
+      "deserunt"
+    ],
+    "relationships": [
+      {
+        "weight": 259.4177,
+        "id": "99f9fd3f-b3b4-484e-9d2d-ce2e5179eef5"
+      },
+      {
+        "weight": 532.016,
+        "id": "288ae198-39af-4136-b753-be5ef2831664"
+      },
+      {
+        "weight": 215.0741,
+        "id": "1ac98536-97b2-4176-8edb-e5851cba4c4f"
+      },
+      {
+        "weight": 819.5541,
+        "id": "762d6e75-3c66-4289-be29-03dcb29b0912"
+      },
+      {
+        "weight": 699.2583,
+        "id": "fdcac24b-60ea-46b9-9e69-f9ad36057181"
+      },
+      {
+        "weight": 696.3881,
+        "id": "ff2ba49a-9b35-473e-8127-a19040a8d714"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp750",
+    "event_id": "bc5f65c7-7b7a-4cec-bd25-80ae7773d9a8",
+    "description": "Connection refused from prodapp750:51391 to prodweb207:8080",
+    "impact": "important",
+    "owner": "DIGIFAD",
+    "status": "active",
+    "tags": [
+      "mollit",
+      "qui",
+      "voluptate",
+      "esse",
+      "excepteur",
+      "ad"
+    ],
+    "relationships": [
+      {
+        "weight": 801.1933,
+        "id": "93995d1a-53fb-411f-b96d-73bf68f8cc37"
+      },
+      {
+        "weight": 74.865,
+        "id": "1ee2071a-5b7f-4c93-b9d0-dab4c82c7b95"
+      },
+      {
+        "weight": 71.2921,
+        "id": "4c1fd4c3-2990-47a2-b126-e154fed9e59e"
+      },
+      {
+        "weight": 249.0307,
+        "id": "13f2a7eb-ff7a-4f99-93cc-cc910a0738d4"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp212",
+    "event_id": "d8e0bd52-c602-4855-a798-e4a6b7028a0a",
+    "description": "Transaction failed on database proddb839 database python using username terrelleu",
+    "impact": "important",
+    "owner": "ORBALIX",
+    "status": "inactive",
+    "tags": [
+      "deserunt",
+      "velit",
+      "cupidatat"
+    ],
+    "relationships": [
+      {
+        "weight": 700.4427,
+        "id": "e207dbad-0dfd-403b-bad2-1817e736856a"
+      },
+      {
+        "weight": 321.7668,
+        "id": "87526b39-2703-4690-9dbc-3ccb87f7bb0d"
+      },
+      {
+        "weight": 650.8874,
+        "id": "5fb7f388-1c63-4828-a2ee-15bf5597865d"
+      },
+      {
+        "weight": 878.8012,
+        "id": "fea25214-a361-4685-8dfa-032524bad640"
+      },
+      {
+        "weight": 188.9815,
+        "id": "83eb1fcf-0ba6-46bc-98cf-8bfed7307561"
+      },
+      {
+        "weight": 44.3302,
+        "id": "88b1d4be-d56b-4f0a-b377-57c6351c8e73"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp511",
+    "event_id": "646f06f7-8634-440d-89a9-1df3c3eecc5a",
+    "description": "Connection refused from prodapp511:61935 to prodweb872:443",
+    "impact": "minor",
+    "owner": "UTARA",
+    "status": "inactive",
+    "tags": [
+      "sit",
+      "duis"
+    ],
+    "relationships": [
+      {
+        "weight": 764.5201,
+        "id": "a6178a77-2942-4b16-8681-5126181213ef"
+      },
+      {
+        "weight": 984.5335,
+        "id": "c8305ebb-d14c-4e33-96a9-9033163c23d5"
+      },
+      {
+        "weight": 490.8526,
+        "id": "540bfaf5-0e9a-42d5-9f1e-6ff0fca62533"
+      },
+      {
+        "weight": 253.9998,
+        "id": "9d46072f-fff4-4fad-bad6-b6209de08d8f"
+      },
+      {
+        "weight": 163.2423,
+        "id": "ad9c0b9e-d9e3-4e35-aa9e-edbf8cc4bbb4"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp127",
+    "event_id": "2d1836c7-5402-4408-98a7-244f0e156688",
+    "description": "Transaction failed on database proddb654 database monty using username wigginspo",
+    "impact": "critical",
+    "owner": "BEADZZA",
+    "status": "inactive",
+    "tags": [
+      "anim",
+      "esse",
+      "eiusmod"
+    ],
+    "relationships": [
+      {
+        "weight": 818.9615,
+        "id": "7169539d-7ff8-4e15-a5e1-c0ecdafdedb7"
+      },
+      {
+        "weight": 789.5842,
+        "id": "13ddc450-522c-4eb6-ab79-97a29adb3f89"
+      },
+      {
+        "weight": 80.9621,
+        "id": "ccf44968-4de7-4a85-96c9-9aa83c5d4ca5"
+      },
+      {
+        "weight": 979.7114,
+        "id": "5bbd8b98-2b8b-42d7-8f85-117b7905278f"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp305",
+    "event_id": "d8c2652c-7baa-45ab-bd43-6ff9abc609be",
+    "description": "Connection refused from prodapp305:21095 to prodweb778:8080",
+    "impact": "critical",
+    "owner": "SKYBOLD",
+    "status": "active",
+    "tags": [
+      "elit",
+      "dolore",
+      "consequat",
+      "non",
+      "consectetur"
+    ],
+    "relationships": [
+      {
+        "weight": 863.7244,
+        "id": "95a4aa10-2a1f-406b-aaee-2e8b78e4ae06"
+      },
+      {
+        "weight": 78.1885,
+        "id": "782d6bea-574b-4a0f-b32e-61e11d52449c"
+      },
+      {
+        "weight": 494.5176,
+        "id": "320f82fb-f9d8-4037-8e76-fa825bc81193"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp441",
+    "event_id": "f246c1c5-287d-43f3-be3b-325409bc3e97",
+    "description": "Transaction failed on database proddb658 database quest using username kaneri",
+    "impact": "minor",
+    "owner": "ROTODYNE",
+    "status": "inactive",
+    "tags": [
+      "adipisicing",
+      "est"
+    ],
+    "relationships": [
+      {
+        "weight": 479.116,
+        "id": "bb5d370a-0db2-4922-b86c-5a13d157a6d9"
+      },
+      {
+        "weight": 984.8819,
+        "id": "099378a4-5d92-4631-a124-5113e483faf1"
+      },
+      {
+        "weight": 223.3275,
+        "id": "4f040036-7cf3-4340-91da-e41a9253bedf"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp976",
+    "event_id": "d4740f86-b842-4cc5-b315-b56c08f1860f",
+    "description": "Connection refused from prodapp976:51895 to prodweb628:80",
+    "impact": "minor",
+    "owner": "EXOTERIC",
+    "status": "inactive",
+    "tags": [
+      "sit",
+      "qui",
+      "deserunt",
+      "occaecat",
+      "sit",
+      "est",
+      "in",
+      "mollit",
+      "elit"
+    ],
+    "relationships": [
+      {
+        "weight": 141.177,
+        "id": "15d082ff-d9a3-4525-8377-1f241392ec51"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp495",
+    "event_id": "442d2d32-7765-4618-8bff-e0a311023b5b",
+    "description": "Connection refused from prodapp495:31593 to prodweb065:80",
+    "impact": "critical",
+    "owner": "ZORK",
+    "status": "inactive",
+    "tags": [
+      "ad",
+      "incididunt"
+    ],
+    "relationships": [
+      {
+        "weight": 474.3066,
+        "id": "168ba32e-ef20-4848-bad3-62e991bbb594"
+      },
+      {
+        "weight": 319.6677,
+        "id": "ac36f6d3-2ed1-473c-9894-5d7328bdf4dc"
+      },
+      {
+        "weight": 955.8164,
+        "id": "aa569b72-1b32-48aa-b9d8-5b1713c19d63"
+      },
+      {
+        "weight": 50.8086,
+        "id": "2322159a-83c3-4814-ad12-de594ef0a597"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp983",
+    "event_id": "c601e168-8dc2-4c35-b47c-5011a4e03c45",
+    "description": "Transaction failed on database proddb061 database holy using username camachovi",
+    "impact": "important",
+    "owner": "SCENTRIC",
+    "status": "inactive",
+    "tags": [
+      "id"
+    ],
+    "relationships": [
+      {
+        "weight": 57.4411,
+        "id": "90201ac0-a9a6-4714-a529-bb48171101c6"
+      },
+      {
+        "weight": 235.3218,
+        "id": "cd2c7a32-727a-45f8-a843-fb5059c109ef"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp248",
+    "event_id": "b471548b-ffc3-4ea6-9799-415bedc373eb",
+    "description": "Connection refused from prodapp248:40316 to prodweb128:80",
+    "impact": "minor",
+    "owner": "MIRACLIS",
+    "status": "active",
+    "tags": [
+      "proident",
+      "proident",
+      "fugiat",
+      "in",
+      "qui",
+      "aute",
+      "proident",
+      "consequat",
+      "ipsum",
+      "velit"
+    ],
+    "relationships": [
+      {
+        "weight": 187.7707,
+        "id": "761369d6-aaa9-4b08-a0fc-4385fbdcb027"
+      },
+      {
+        "weight": 158.1802,
+        "id": "1940d809-d48b-425a-949f-4ebafeec88f8"
+      },
+      {
+        "weight": 907.605,
+        "id": "9cf383b9-a498-415e-822d-8f19ca6bce34"
+      },
+      {
+        "weight": 33.4721,
+        "id": "16ef95bf-6e9f-4f0c-a82f-14072e43f1e3"
+      },
+      {
+        "weight": 78.338,
+        "id": "22f8ffb2-5160-47e1-9663-b02f0e09210f"
+      },
+      {
+        "weight": 21.4738,
+        "id": "e8705ead-cf08-4e42-842c-1ac9408829ce"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp135",
+    "event_id": "77c0a8e9-c861-4e59-84c0-96a1f9b979d6",
+    "description": "Connection refused from prodapp135:32203 to prodweb039:80",
+    "impact": "critical",
+    "owner": "DRAGBOT",
+    "status": "active",
+    "tags": [
+      "irure",
+      "sint"
+    ],
+    "relationships": [
+      {
+        "weight": 630.6058,
+        "id": "b755c5a6-c13b-4a0e-9c41-506ec5e30661"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp775",
+    "event_id": "06a68bb6-081c-4325-86ea-c5aa230ee052",
+    "description": "Connection refused from prodapp775:59080 to prodweb370:8080",
+    "impact": "important",
+    "owner": "BOILCAT",
+    "status": "active",
+    "tags": [
+      "ipsum",
+      "id",
+      "aliquip",
+      "aute",
+      "culpa",
+      "sint",
+      "voluptate",
+      "occaecat"
+    ],
+    "relationships": [
+      {
+        "weight": 631.0262,
+        "id": "821678e6-2910-4e64-81ae-dea7637928c3"
+      },
+      {
+        "weight": 793.3112,
+        "id": "ee7ee2d4-02ba-4321-ae12-7fa86b40c535"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp251",
+    "event_id": "fa24677d-fa24-45ce-a950-e200dfcfec9c",
+    "description": "Connection refused from prodapp251:59460 to prodweb119:443",
+    "impact": "important",
+    "owner": "MALATHION",
+    "status": "active",
+    "tags": [
+      "elit"
+    ],
+    "relationships": [
+      {
+        "weight": 823.8966,
+        "id": "b1454caf-4835-4e45-b086-311d57b01e44"
+      },
+      {
+        "weight": 690.528,
+        "id": "dc88fdb4-839e-4cc2-95b2-e70970e02190"
+      },
+      {
+        "weight": 650.0483,
+        "id": "72fb8736-74ec-45e3-967b-525a3ae8349d"
+      },
+      {
+        "weight": 676.63,
+        "id": "78db81b3-45bd-4eec-8baf-202cf4572023"
+      },
+      {
+        "weight": 906.7644,
+        "id": "de057b17-f257-401c-abdf-9db9c45709a2"
+      },
+      {
+        "weight": 845.4767,
+        "id": "a1c2a9aa-dfb9-4060-8ecf-e7f032244cb4"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp555",
+    "event_id": "47ee807a-b52a-4c76-bdcc-b1e397722de3",
+    "description": "Transaction failed on database proddb959 database holy using username tysonse",
+    "impact": "important",
+    "owner": "BLURRYBUS",
+    "status": "active",
+    "tags": [
+      "deserunt",
+      "proident",
+      "ad",
+      "est"
+    ],
+    "relationships": [
+      {
+        "weight": 471.4045,
+        "id": "9deb629e-1ef2-473a-a117-c998e00f72fe"
+      },
+      {
+        "weight": 780.3431,
+        "id": "d462344b-1573-4125-b7c1-b02fddb878fa"
+      },
+      {
+        "weight": 15.3329,
+        "id": "9865a8b5-74c6-4c2c-9619-e2fee84d60a1"
+      },
+      {
+        "weight": 168.98,
+        "id": "5f8eafd3-5ef3-4ade-ba9f-9d576eb20412"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp298",
+    "event_id": "6f90d3aa-64a5-495e-980b-c455fb1c6615",
+    "description": "Transaction failed on database proddb007 database quest using username thompsonto",
+    "impact": "minor",
+    "owner": "SKYPLEX",
+    "status": "active",
+    "tags": [
+      "Lorem",
+      "eiusmod",
+      "velit",
+      "occaecat",
+      "ea",
+      "ipsum"
+    ],
+    "relationships": [
+      {
+        "weight": 614.1504,
+        "id": "024a4502-6426-4f32-91bb-a9b0e13da846"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp219",
+    "event_id": "82eb22c1-57ba-442d-aad8-991dca7ac63b",
+    "description": "Connection refused from prodapp219:18019 to prodweb511:8081",
+    "impact": "minor",
+    "owner": "EARGO",
+    "status": "inactive",
+    "tags": [
+      "pariatur",
+      "qui"
+    ],
+    "relationships": [
+      {
+        "weight": 116.1027,
+        "id": "3e3ae290-8069-4392-96f7-8c1e2942dcd0"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp641",
+    "event_id": "ab6184c6-b1de-4b39-968d-076c24d9dcae",
+    "description": "Transaction failed on database proddb127 database quest using username chanbe",
+    "impact": "important",
+    "owner": "SNOWPOKE",
+    "status": "inactive",
+    "tags": [
+      "dolore"
+    ],
+    "relationships": [
+      {
+        "weight": 826.8104,
+        "id": "8c50b80a-9c1c-4ddc-af77-0d8f6e84dbd6"
+      },
+      {
+        "weight": 82.1068,
+        "id": "e3f480bb-4fb7-49e6-bd7b-b431805d5d31"
+      },
+      {
+        "weight": 803.8516,
+        "id": "7f1cf21e-3010-4012-94f3-ad46163ef21e"
+      },
+      {
+        "weight": 227.86,
+        "id": "2334b5fb-e222-43c4-8d73-92f5970ea110"
+      },
+      {
+        "weight": 576.1674,
+        "id": "08cc3d63-fec1-4516-9450-31108e3bdf9f"
+      },
+      {
+        "weight": 715.9387,
+        "id": "f8300eca-61bd-467a-a4c4-0605547d54dc"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp003",
+    "event_id": "dd9f9581-cf14-4e65-8554-4c933b6aaab4",
+    "description": "Transaction failed on database proddb851 database grail using username whitakersi",
+    "impact": "critical",
+    "owner": "LUDAK",
+    "status": "inactive",
+    "tags": [
+      "non",
+      "elit",
+      "voluptate",
+      "pariatur",
+      "quis",
+      "dolore"
+    ],
+    "relationships": [
+      {
+        "weight": 657.6111,
+        "id": "626d6363-2cfe-4980-b9e8-19cfbcdaee1d"
+      },
+      {
+        "weight": 371.3434,
+        "id": "ba348c43-4914-4c65-828a-2bdba0572b77"
+      },
+      {
+        "weight": 759.4301,
+        "id": "956b9df6-035f-4966-ba12-5b7a622b1c0c"
+      },
+      {
+        "weight": 808.6898,
+        "id": "e19a6bc3-3e2b-4d09-85d7-a98cb7ecb676"
+      },
+      {
+        "weight": 386.7135,
+        "id": "27953eae-4c04-462c-8ee2-b97c5071406a"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp781",
+    "event_id": "3e653610-0ae9-4805-9e01-f6976693502c",
+    "description": "Connection refused from prodapp781:59916 to prodweb850:443",
+    "impact": "critical",
+    "owner": "STELAECOR",
+    "status": "active",
+    "tags": [
+      "cillum",
+      "ex",
+      "fugiat"
+    ],
+    "relationships": [
+      {
+        "weight": 782.8608,
+        "id": "f68b18fd-0197-4490-9299-c6b37b35608a"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp761",
+    "event_id": "69f17631-be27-4510-95ba-b01ce6a20fd1",
+    "description": "Transaction failed on database proddb242 database monty using username bennetthi",
+    "impact": "critical",
+    "owner": "ISOTERNIA",
+    "status": "inactive",
+    "tags": [
+      "incididunt",
+      "ea",
+      "deserunt",
+      "duis",
+      "nisi",
+      "esse"
+    ],
+    "relationships": [
+      {
+        "weight": 86.3399,
+        "id": "1ae56393-265a-4f59-9724-b6bdd5b098ba"
+      },
+      {
+        "weight": 356.0108,
+        "id": "a74b228d-8868-462b-ab91-1754ecc11ab2"
+      },
+      {
+        "weight": 886.1384,
+        "id": "42e09412-8ff6-4edc-a38d-484a86365131"
+      },
+      {
+        "weight": 478.2127,
+        "id": "e9e8e6ac-f3a8-48a4-a8f7-c9db72f1df22"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp009",
+    "event_id": "533c78df-d2da-45d6-8620-067d281f9830",
+    "description": "Connection refused from prodapp009:15805 to prodweb169:443",
+    "impact": "critical",
+    "owner": "MAXIMIND",
+    "status": "inactive",
+    "tags": [
+      "aute",
+      "sit",
+      "aliqua"
+    ],
+    "relationships": [
+      {
+        "weight": 520.062,
+        "id": "a4f51977-5478-4cdc-acb9-46f274933f48"
+      },
+      {
+        "weight": 302.5668,
+        "id": "2bbfc00d-bd38-41ad-9c3a-8c8979430885"
+      },
+      {
+        "weight": 555.4169,
+        "id": "058b35cf-3310-4473-ac69-6cf899d0340c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp261",
+    "event_id": "140dcf19-65b2-4133-88dc-91e702ea3674",
+    "description": "Connection refused from prodapp261:30656 to prodweb550:8081",
+    "impact": "minor",
+    "owner": "CYTREK",
+    "status": "inactive",
+    "tags": [
+      "eiusmod",
+      "dolore",
+      "eiusmod"
+    ],
+    "relationships": [
+      {
+        "weight": 914.3194,
+        "id": "a1e9cb92-9094-417e-94e5-89af14343fb6"
+      },
+      {
+        "weight": 677.1141,
+        "id": "4df1497e-face-49e7-a448-5a2ffed1325f"
+      },
+      {
+        "weight": 126.9804,
+        "id": "34172dd5-1608-4f65-8d40-68a51faa4c09"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp227",
+    "event_id": "b9f62f6f-0ae3-468d-bd68-7d69a3b8bee4",
+    "description": "Connection refused from prodapp227:47532 to prodweb850:80",
+    "impact": "critical",
+    "owner": "ECSTASIA",
+    "status": "inactive",
+    "tags": [
+      "id",
+      "eu",
+      "tempor",
+      "id",
+      "qui"
+    ],
+    "relationships": [
+      {
+        "weight": 849.2953,
+        "id": "6f72ca1a-d287-440b-b769-5e313ade5369"
+      },
+      {
+        "weight": 269.3753,
+        "id": "9d485bfa-0a8e-43b0-88bb-d8aca949fc47"
+      },
+      {
+        "weight": 117.6779,
+        "id": "976b06c0-0840-4dcb-9671-51c3a9c0653f"
+      },
+      {
+        "weight": 804.9037,
+        "id": "43673a02-59e8-427c-b0f8-7572d5ad371f"
+      },
+      {
+        "weight": 52.3661,
+        "id": "1ce68b82-e793-45af-b03b-3520fbf32d3b"
+      },
+      {
+        "weight": 49.5606,
+        "id": "240950e3-2d4a-4ef8-bc6f-903ddf700a9a"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp795",
+    "event_id": "4e0ab736-5076-4494-9947-fa54fd56e36e",
+    "description": "Transaction failed on database proddb458 database holy using username crawfordkr",
+    "impact": "important",
+    "owner": "TUBALUM",
+    "status": "inactive",
+    "tags": [
+      "id"
+    ],
+    "relationships": [
+      {
+        "weight": 654.1567,
+        "id": "7049bb98-2f45-4bf7-934e-b87af46fad30"
+      },
+      {
+        "weight": 600.6438,
+        "id": "be0ce454-2d50-4d42-a953-012f5b6d09f4"
+      },
+      {
+        "weight": 866.0659,
+        "id": "bc576cb6-3067-4ba9-b224-2de8dc3b4595"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp601",
+    "event_id": "ecd8d671-482a-4abd-a33c-b59aa5eaa470",
+    "description": "Connection refused from prodapp601:16991 to prodweb730:443",
+    "impact": "important",
+    "owner": "NEBULEAN",
+    "status": "inactive",
+    "tags": [
+      "amet",
+      "aliqua"
+    ],
+    "relationships": [
+      {
+        "weight": 31.8087,
+        "id": "604da5dc-2165-4416-85eb-035fb3e11ff0"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp511",
+    "event_id": "1f2a9081-1a92-4d8d-9b16-2510937ad590",
+    "description": "Transaction failed on database proddb573 database quest using username morrisbr",
+    "impact": "critical",
+    "owner": "GEEKKO",
+    "status": "inactive",
+    "tags": [
+      "esse",
+      "laboris",
+      "culpa"
+    ],
+    "relationships": [
+      {
+        "weight": 666.5549,
+        "id": "71cfe023-d341-42f8-962d-5b271d3c0044"
+      },
+      {
+        "weight": 10.2143,
+        "id": "fbbc43fd-639c-47fd-9ffd-ebfb02db4ad8"
+      },
+      {
+        "weight": 391.872,
+        "id": "8f84fce6-b986-470a-bcec-82a1fcecee4b"
+      },
+      {
+        "weight": 499.705,
+        "id": "d78c2d2e-6594-465d-a7af-52266195b78d"
+      },
+      {
+        "weight": 446.0755,
+        "id": "0c471c7e-cb2b-4d91-8b4c-cf42780b1851"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp644",
+    "event_id": "926b71ad-9a6c-47b6-b2cc-903d3ea1f756",
+    "description": "Connection refused from prodapp644:23181 to prodweb946:443",
+    "impact": "important",
+    "owner": "SNORUS",
+    "status": "active",
+    "tags": [
+      "consequat"
+    ],
+    "relationships": [
+      {
+        "weight": 392.7118,
+        "id": "d3a5110f-47d8-4649-9b7b-9bcfe7e3599e"
+      },
+      {
+        "weight": 667.6126,
+        "id": "02df881e-057f-4329-b811-236108408d82"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp955",
+    "event_id": "ae20d371-1bce-47a7-abdd-491be57810b4",
+    "description": "Transaction failed on database proddb186 database python using username herrerade",
+    "impact": "important",
+    "owner": "HAIRPORT",
+    "status": "active",
+    "tags": [
+      "qui",
+      "veniam"
+    ],
+    "relationships": [
+      {
+        "weight": 194.4112,
+        "id": "c54941e8-8bbe-4321-8437-64a5026d1c7b"
+      },
+      {
+        "weight": 89.8865,
+        "id": "9d7f3cc7-6b1a-4d7d-b7b7-2dca344efffe"
+      },
+      {
+        "weight": 83.0171,
+        "id": "cd83dee0-400c-46d0-ac61-9c6ebe58f256"
+      },
+      {
+        "weight": 290.345,
+        "id": "8363e650-aed7-4e45-8d39-3693898399a6"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp060",
+    "event_id": "8544e586-ac68-494b-a52d-375cd39fd309",
+    "description": "Transaction failed on database proddb565 database python using username wagnerte",
+    "impact": "minor",
+    "owner": "COASH",
+    "status": "inactive",
+    "tags": [
+      "quis",
+      "mollit",
+      "consectetur"
+    ],
+    "relationships": [
+      {
+        "weight": 181.5686,
+        "id": "d8d1c3e9-7bdd-46f4-92a0-b505bcfbcce4"
+      },
+      {
+        "weight": 315.82,
+        "id": "92c2d2ea-55b6-44f2-93c0-f24e99c34493"
+      },
+      {
+        "weight": 282.2694,
+        "id": "44d24e93-5ec6-4cb6-9c4a-c9f910a249bb"
+      },
+      {
+        "weight": 430.2251,
+        "id": "8a500f18-8e94-45cc-8003-91e55540af3c"
+      },
+      {
+        "weight": 650.647,
+        "id": "dc01f253-f59a-4dca-8318-eed9983f73fe"
+      },
+      {
+        "weight": 216.0438,
+        "id": "2a1c1967-99b6-406b-b53f-149887e93fac"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp022",
+    "event_id": "44b5333b-8165-474b-93ea-d77050b0ea35",
+    "description": "Transaction failed on database proddb284 database grail using username randolphke",
+    "impact": "minor",
+    "owner": "PLASMOSIS",
+    "status": "active",
+    "tags": [
+      "laboris"
+    ],
+    "relationships": [
+      {
+        "weight": 441.1414,
+        "id": "ed8f52e2-eb67-4c02-9361-d621bb7b24ce"
+      },
+      {
+        "weight": 332.3153,
+        "id": "34ce4bd8-6491-418f-9d87-317c8707a39c"
+      },
+      {
+        "weight": 521.5244,
+        "id": "76caf31e-b59e-4698-8a76-4a0f4cfa76d7"
+      },
+      {
+        "weight": 711.3484,
+        "id": "1226ecdc-9fdc-417c-8dfc-4171a1d9fa8f"
+      },
+      {
+        "weight": 496.9111,
+        "id": "52a3d75b-a135-4daf-81cc-211777c7ed4a"
+      },
+      {
+        "weight": 219.0124,
+        "id": "f5b69c79-192a-44ed-9161-57a69df173c9"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp581",
+    "event_id": "4006580f-02dd-4be8-a3a8-f83b1b2c7d25",
+    "description": "Transaction failed on database proddb008 database grail using username leonardni",
+    "impact": "critical",
+    "owner": "VISUALIX",
+    "status": "inactive",
+    "tags": [
+      "occaecat",
+      "eu",
+      "incididunt"
+    ],
+    "relationships": [
+      {
+        "weight": 988.7275,
+        "id": "f284aa16-049e-4d9e-bc12-353bf94cd3f3"
+      },
+      {
+        "weight": 57.769,
+        "id": "b30bc6f5-d22d-4009-b78a-1dda9ba44e08"
+      },
+      {
+        "weight": 972.8306,
+        "id": "8a94157d-08db-4bee-8e44-a6aadcb7d17c"
+      },
+      {
+        "weight": 788.1343,
+        "id": "73915972-b9e0-45a7-a67f-1c4ae3cca3cd"
+      },
+      {
+        "weight": 263.0959,
+        "id": "ad81d944-fa04-40c6-9855-05be122ce0c3"
+      },
+      {
+        "weight": 468.7956,
+        "id": "32cc5aad-3784-4278-b54d-67cff226d703"
+      },
+      {
+        "weight": 383.5793,
+        "id": "50a89583-ed8b-4c7f-a1df-82f1e1559b3b"
+      },
+      {
+        "weight": 423.8299,
+        "id": "4b9769e5-7608-4b72-b0d1-3ba9fabc038e"
+      },
+      {
+        "weight": 702.8992,
+        "id": "58cc5a20-e63d-42b1-9747-b1bf4edb9a1e"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp669",
+    "event_id": "a46b418e-b65e-4598-a808-36e74c777dee",
+    "description": "Connection refused from prodapp669:20533 to prodweb284:8081",
+    "impact": "critical",
+    "owner": "ROCKABYE",
+    "status": "active",
+    "tags": [
+      "cillum",
+      "minim",
+      "officia"
+    ],
+    "relationships": [
+      {
+        "weight": 514.9033,
+        "id": "4d540982-d33d-401a-945a-d83eeaa28597"
+      },
+      {
+        "weight": 426.4894,
+        "id": "4efbb9e3-34cf-4474-a38e-0a180526ccae"
+      },
+      {
+        "weight": 814.5758,
+        "id": "a5fbdbdd-fcf9-4332-a015-b7a91917dd61"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp640",
+    "event_id": "5eeaec0a-7400-454c-b249-46a9771eefba",
+    "description": "Transaction failed on database proddb013 database quest using username chapmando",
+    "impact": "important",
+    "owner": "GAZAK",
+    "status": "active",
+    "tags": [
+      "aute",
+      "ex",
+      "anim",
+      "dolor",
+      "sunt",
+      "do",
+      "ipsum",
+      "aute",
+      "excepteur"
+    ],
+    "relationships": [
+      {
+        "weight": 777.1171,
+        "id": "1345f6ac-bfaf-4518-8ab2-41c99b1ca9c8"
+      },
+      {
+        "weight": 112.0152,
+        "id": "059e3ef1-7209-42af-895b-eabff58d282a"
+      },
+      {
+        "weight": 337.6279,
+        "id": "51782fa5-10ea-4d32-97a5-5c11b684aa26"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp912",
+    "event_id": "cd3737e3-b8d2-4c82-a351-e6caa48b2264",
+    "description": "Transaction failed on database proddb921 database holy using username johnsonje",
+    "impact": "important",
+    "owner": "ZUVY",
+    "status": "inactive",
+    "tags": [
+      "fugiat",
+      "minim",
+      "qui",
+      "velit"
+    ],
+    "relationships": [
+      {
+        "weight": 413.6419,
+        "id": "7c20c8da-c30b-4043-94f4-ad7996954a19"
+      },
+      {
+        "weight": 872.451,
+        "id": "cc5c777a-a689-4074-b7a3-e7b9ae6f5166"
+      },
+      {
+        "weight": 432.7572,
+        "id": "f6beb5e1-c9a9-4e98-8188-9dd9b770ae53"
+      },
+      {
+        "weight": 846.9758,
+        "id": "90246ecd-abcd-43c0-8c4f-601fdc9eb78d"
+      },
+      {
+        "weight": 898.6169,
+        "id": "c53636b8-a912-4f8c-aaba-4f0d0beec11d"
+      },
+      {
+        "weight": 710.0489,
+        "id": "3371e5b3-8fdd-4b10-8e9e-e365a373e203"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp377",
+    "event_id": "e5a238f0-9d24-499a-9265-da576d15b4de",
+    "description": "Connection refused from prodapp377:45289 to prodweb568:8081",
+    "impact": "minor",
+    "owner": "ZAJ",
+    "status": "inactive",
+    "tags": [
+      "ad"
+    ],
+    "relationships": [
+      {
+        "weight": 176.1953,
+        "id": "6bf2ed5c-8fb7-4734-b1aa-b254ae7ec28c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp082",
+    "event_id": "4c1e3709-1507-4b3d-828c-1e4dccd7b025",
+    "description": "Transaction failed on database proddb343 database quest using username hicksco",
+    "impact": "critical",
+    "owner": "DANCERITY",
+    "status": "active",
+    "tags": [
+      "mollit",
+      "sunt",
+      "qui",
+      "in",
+      "sit",
+      "ullamco",
+      "cillum",
+      "culpa"
+    ],
+    "relationships": [
+      {
+        "weight": 119.012,
+        "id": "378b79cc-7159-4d79-b27a-12f312aee342"
+      },
+      {
+        "weight": 193.7978,
+        "id": "7ac87b40-7549-4b35-aedc-03a7c14ecd3f"
+      },
+      {
+        "weight": 798.4376,
+        "id": "a91e2887-0a1c-4694-af24-6856adc5ca80"
+      },
+      {
+        "weight": 710.0711,
+        "id": "887788cd-e178-4d8c-b37c-64a34e8899f1"
+      },
+      {
+        "weight": 810.8167,
+        "id": "02d8b764-b184-4662-80f3-039958d106de"
+      },
+      {
+        "weight": 179.1162,
+        "id": "a5e5ca28-39f8-4635-b117-070097abb0b1"
+      },
+      {
+        "weight": 226.8698,
+        "id": "d405b609-fbb5-45e2-ae5a-7955cb76df6b"
+      },
+      {
+        "weight": 141.9568,
+        "id": "b478bab1-ffbc-46bd-979e-63b3bc2e14e8"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp213",
+    "event_id": "deafbdbb-6535-473c-875b-9e34174778e3",
+    "description": "Connection refused from prodapp213:31987 to prodweb082:80",
+    "impact": "important",
+    "owner": "PYRAMIA",
+    "status": "active",
+    "tags": [
+      "consequat",
+      "ipsum",
+      "nulla",
+      "ad",
+      "eiusmod"
+    ],
+    "relationships": [
+      {
+        "weight": 960.9581,
+        "id": "48ae1fd9-addb-40a5-94a2-d8f13e2b9f37"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp338",
+    "event_id": "93b6a1d8-41c8-4f75-82e0-24eb36cada75",
+    "description": "Transaction failed on database proddb220 database holy using username roysm",
+    "impact": "critical",
+    "owner": "DIGIGENE",
+    "status": "inactive",
+    "tags": [
+      "deserunt",
+      "ea",
+      "aliqua",
+      "ipsum",
+      "aliquip",
+      "tempor"
+    ],
+    "relationships": [
+      {
+        "weight": 596.1394,
+        "id": "befcfc00-80ae-4326-82f6-94738ba8a3a3"
+      },
+      {
+        "weight": 794.5376,
+        "id": "7c8fe505-b375-4cb9-806f-dc8bea28ee7c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp279",
+    "event_id": "fa1d479e-a4e0-4b6d-a776-1f59f0ac818c",
+    "description": "Connection refused from prodapp279:59622 to prodweb514:8081",
+    "impact": "minor",
+    "owner": "SYNTAC",
+    "status": "inactive",
+    "tags": [
+      "quis",
+      "et"
+    ],
+    "relationships": [
+      {
+        "weight": 143.7843,
+        "id": "7a80aa06-9af8-4585-87dd-b39a18a173e5"
+      },
+      {
+        "weight": 171.3563,
+        "id": "39e0d1b8-5fff-4a0e-bd5a-60b5de89b07a"
+      },
+      {
+        "weight": 541.6374,
+        "id": "dc2ff5fb-100a-40dc-8b36-1518b5758ef1"
+      },
+      {
+        "weight": 558.0052,
+        "id": "a8a402ff-c0e1-4c68-b8d1-dc38877e71b6"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp365",
+    "event_id": "c07221a1-6c0c-41dd-aada-1b6320c4c695",
+    "description": "Transaction failed on database proddb619 database quest using username englishoc",
+    "impact": "important",
+    "owner": "NORSUP",
+    "status": "inactive",
+    "tags": [
+      "proident",
+      "dolor",
+      "minim",
+      "in",
+      "velit"
+    ],
+    "relationships": [
+      {
+        "weight": 992.3854,
+        "id": "479d7ef9-4253-4156-9941-419a296aa950"
+      },
+      {
+        "weight": 647.7795,
+        "id": "a1c7c45c-7ae6-4670-9846-833dffa927b9"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp768",
+    "event_id": "b3a007de-6578-41e9-b6d6-440272eb1ed3",
+    "description": "Connection refused from prodapp768:63941 to prodweb780:443",
+    "impact": "important",
+    "owner": "ZANYMAX",
+    "status": "inactive",
+    "tags": [
+      "in"
+    ],
+    "relationships": [
+      {
+        "weight": 475.0388,
+        "id": "996cf24a-5349-4c06-95ec-399e7efc82da"
+      },
+      {
+        "weight": 620.0448,
+        "id": "e0fab122-ccc5-42e1-adde-d06dce002601"
+      },
+      {
+        "weight": 297.1879,
+        "id": "c4993df2-6fd1-4aed-a135-8f6c80ae0644"
+      },
+      {
+        "weight": 987.7724,
+        "id": "3a31ab33-36df-4834-9aa0-0c7807f39e1a"
+      },
+      {
+        "weight": 982.5571,
+        "id": "2c0be481-1979-4c64-8894-b48e1c78224d"
+      },
+      {
+        "weight": 692.6313,
+        "id": "b7c4766e-54f6-4d11-856e-4b40a1c49103"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp811",
+    "event_id": "4117131a-5d5c-41c4-90db-11007cdad08b",
+    "description": "Transaction failed on database proddb664 database grail using username barberha",
+    "impact": "important",
+    "owner": "COREPAN",
+    "status": "inactive",
+    "tags": [
+      "aliqua",
+      "ut",
+      "fugiat",
+      "irure",
+      "adipisicing"
+    ],
+    "relationships": [
+      {
+        "weight": 665.6817,
+        "id": "147c1209-c590-4134-b6ff-1f8152f3476f"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp444",
+    "event_id": "ce5fa837-5b57-411a-b3b3-6c0f15ec2da6",
+    "description": "Connection refused from prodapp444:35348 to prodweb629:443",
+    "impact": "critical",
+    "owner": "ZILLATIDE",
+    "status": "active",
+    "tags": [
+      "qui"
+    ],
+    "relationships": [
+      {
+        "weight": 734.1689,
+        "id": "602c709a-f920-4f1e-914f-dc8d7a9522d6"
+      },
+      {
+        "weight": 579.371,
+        "id": "4e540867-b116-4add-9dac-b97e5cab0def"
+      },
+      {
+        "weight": 799.6837,
+        "id": "c774caa3-193d-404e-8f75-05290bf9973e"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp364",
+    "event_id": "8831599a-4ef9-40d0-b4e2-08b738649fa5",
+    "description": "Transaction failed on database proddb586 database python using username sniderja",
+    "impact": "important",
+    "owner": "GLEAMINK",
+    "status": "inactive",
+    "tags": [
+      "nostrud",
+      "officia",
+      "id",
+      "ea"
+    ],
+    "relationships": []
+  },
+  {
+    "source_host": "prodapp526",
+    "event_id": "ad0fe91c-1445-468a-9b5d-6ec68771c088",
+    "description": "Connection refused from prodapp526:38226 to prodweb388:8080",
+    "impact": "minor",
+    "owner": "ZILCH",
+    "status": "inactive",
+    "tags": [
+      "irure",
+      "non"
+    ],
+    "relationships": [
+      {
+        "weight": 841.7887,
+        "id": "d3eda1cd-ef2f-4e98-9753-b7b1d09bcef7"
+      },
+      {
+        "weight": 404.9439,
+        "id": "b4f0ea82-2190-4825-b8c2-258d7f8ee162"
+      },
+      {
+        "weight": 236.8738,
+        "id": "69db80e0-b4ab-4be7-8a34-4f8084584ff0"
+      },
+      {
+        "weight": 52.5171,
+        "id": "9252771e-61c7-4689-884c-e82cefa12618"
+      },
+      {
+        "weight": 704.8999,
+        "id": "09e3fea1-cb89-40ba-8c33-06c294150191"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp142",
+    "event_id": "504dcf48-19aa-4186-8abe-296f0649a5d7",
+    "description": "Transaction failed on database proddb144 database quest using username sheltonbl",
+    "impact": "minor",
+    "owner": "SENMEI",
+    "status": "active",
+    "tags": [
+      "reprehenderit",
+      "aliqua"
+    ],
+    "relationships": [
+      {
+        "weight": 879.5721,
+        "id": "ff6aa6b0-7f57-4699-b2a2-bec067720d5e"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp826",
+    "event_id": "58f0ccd0-928a-4804-8cc2-3c78efbe0e82",
+    "description": "Transaction failed on database proddb155 database grail using username tateba",
+    "impact": "critical",
+    "owner": "ROCKLOGIC",
+    "status": "inactive",
+    "tags": [
+      "ea",
+      "qui",
+      "proident",
+      "magna",
+      "ex"
+    ],
+    "relationships": [
+      {
+        "weight": 134.1391,
+        "id": "30f4f3d1-7ee9-4965-a8e4-34282696b0f9"
+      },
+      {
+        "weight": 935.834,
+        "id": "bca1c5fe-4159-42d4-8dcc-04b1b92419bf"
+      },
+      {
+        "weight": 990.9509,
+        "id": "fa7e7f16-4a7e-474c-bddb-7f9e9d97a45e"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp950",
+    "event_id": "4f36cf00-973c-4fe0-a674-34352cc3abbe",
+    "description": "Transaction failed on database proddb300 database python using username dickersoned",
+    "impact": "critical",
+    "owner": "OBLIQ",
+    "status": "inactive",
+    "tags": [
+      "cillum",
+      "et",
+      "occaecat",
+      "ut",
+      "cillum",
+      "ullamco"
+    ],
+    "relationships": [
+      {
+        "weight": 925.8029,
+        "id": "9335edd8-f20e-4470-abb3-f10e6ec97ec0"
+      },
+      {
+        "weight": 680.7372,
+        "id": "1f974c3d-3a00-4966-88af-2a37571e00c4"
+      },
+      {
+        "weight": 908.7007,
+        "id": "d71f6e70-3938-472d-b316-32cd70efece2"
+      },
+      {
+        "weight": 790.5575,
+        "id": "27249a98-0e1c-4f1d-a1cc-edb8c5a0d1b5"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp834",
+    "event_id": "1ac396f5-868e-4359-8efd-a28f906ed3e5",
+    "description": "Transaction failed on database proddb841 database quest using username kirklandhe",
+    "impact": "critical",
+    "owner": "FLUM",
+    "status": "inactive",
+    "tags": [],
+    "relationships": [
+      {
+        "weight": 90.7189,
+        "id": "e936c9d6-dc2c-46f4-9211-8216dd9da8e1"
+      },
+      {
+        "weight": 260.6426,
+        "id": "43a8f5d0-a076-40dd-ac7e-df3798591f9f"
+      },
+      {
+        "weight": 742.6537,
+        "id": "30132618-9490-4958-970b-c39ecf74e965"
+      },
+      {
+        "weight": 906.8333,
+        "id": "413a83c0-3a60-4b63-b418-ba1e25dd78fe"
+      },
+      {
+        "weight": 989.7965,
+        "id": "c32d8f1f-5cbf-43fa-bdd3-c71aff5234a2"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp822",
+    "event_id": "10f9c0a6-f3bd-497b-9582-6ee97319dd49",
+    "description": "Transaction failed on database proddb745 database holy using username beardje",
+    "impact": "minor",
+    "owner": "GRACKER",
+    "status": "active",
+    "tags": [
+      "sit"
+    ],
+    "relationships": [
+      {
+        "weight": 173.2125,
+        "id": "9dc524a2-80c1-450a-b832-d2e86aa7c525"
+      },
+      {
+        "weight": 204.2879,
+        "id": "05e9fe8a-96ac-4237-aee4-e2818ea17305"
+      },
+      {
+        "weight": 888.3021,
+        "id": "30d66d72-5533-44ee-99dd-73636b37c86b"
+      },
+      {
+        "weight": 799.3367,
+        "id": "46e7a4c5-e4fb-410d-836d-b75d6ade0231"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp765",
+    "event_id": "d80a010b-e4ec-42ff-a574-4dd22d002fe9",
+    "description": "Connection refused from prodapp765:20796 to prodweb392:8080",
+    "impact": "important",
+    "owner": "KONGENE",
+    "status": "active",
+    "tags": [
+      "aliquip"
+    ],
+    "relationships": [
+      {
+        "weight": 902.8124,
+        "id": "405b6436-be42-4fdd-807d-9973d004915f"
+      },
+      {
+        "weight": 386.8622,
+        "id": "1a013fc7-ecb4-41e4-8fea-7c9b582d6770"
+      },
+      {
+        "weight": 223.2064,
+        "id": "03990141-9e54-426a-b124-e0d9a96057a8"
+      },
+      {
+        "weight": 777.0016,
+        "id": "d6d221f6-8ee1-400a-8fcb-ebb83fccaa22"
+      },
+      {
+        "weight": 601.6449,
+        "id": "22359758-5c5a-4363-a31a-d680ff8c1fe9"
+      },
+      {
+        "weight": 686.4063,
+        "id": "c72d9ff4-c3de-42e4-b50b-1a373622bd64"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp666",
+    "event_id": "7b3019ba-ed37-4f97-b03e-9761e75975ad",
+    "description": "Transaction failed on database proddb655 database monty using username parksgo",
+    "impact": "important",
+    "owner": "ENTHAZE",
+    "status": "inactive",
+    "tags": [
+      "officia"
+    ],
+    "relationships": [
+      {
+        "weight": 817.3951,
+        "id": "87e7e2a3-c28e-434f-981e-b0fe2255e9d3"
+      },
+      {
+        "weight": 607.4568,
+        "id": "8977aa48-1ae6-47bf-9e05-5e71900ea0d8"
+      },
+      {
+        "weight": 713.3024,
+        "id": "52fe4f86-538c-4042-a3cf-86ebe2dd1882"
+      },
+      {
+        "weight": 704.4309,
+        "id": "4bed6629-03b1-43ce-ae25-9a3c085bf820"
+      },
+      {
+        "weight": 67.571,
+        "id": "9724c190-c0ea-42d4-9ac0-35056545c130"
+      },
+      {
+        "weight": 650.3369,
+        "id": "1740b68d-a1e4-431c-a6d2-526a4d1ba824"
+      },
+      {
+        "weight": 238.8756,
+        "id": "82e46548-01b2-4c11-ba9b-24a4c45f5856"
+      },
+      {
+        "weight": 952.625,
+        "id": "6a019d0e-c02f-4adf-94e7-cf6638fde87b"
+      },
+      {
+        "weight": 134.5397,
+        "id": "dc0c219a-fa51-4c1e-8225-878c5cc9824e"
+      },
+      {
+        "weight": 578.0344,
+        "id": "9d351d71-dbe0-4b70-a4ce-78c51d86b84c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp660",
+    "event_id": "4b276fed-4e3c-470b-8302-f31573c2c60b",
+    "description": "Transaction failed on database proddb712 database holy using username vegael",
+    "impact": "minor",
+    "owner": "ASSITIA",
+    "status": "active",
+    "tags": [
+      "anim",
+      "aute",
+      "in",
+      "nisi",
+      "incididunt",
+      "proident",
+      "do",
+      "laborum",
+      "sint",
+      "aliqua"
+    ],
+    "relationships": [
+      {
+        "weight": 574.7213,
+        "id": "72c8899f-099d-4da0-950f-a61587eceb65"
+      },
+      {
+        "weight": 489.5198,
+        "id": "c4a9e455-c390-414f-ada5-1ac6f6ca891b"
+      },
+      {
+        "weight": 421.4962,
+        "id": "5be4695c-ca12-436c-8483-caeff578357a"
+      },
+      {
+        "weight": 919.4522,
+        "id": "34ed019b-b7d6-4be0-9a4f-1e4ca41be69b"
+      },
+      {
+        "weight": 571.3847,
+        "id": "d9015e35-db53-4ea8-a24e-d778e250457b"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp733",
+    "event_id": "0f92f162-3773-49d4-913f-ee97ca8e38bc",
+    "description": "Connection refused from prodapp733:30262 to prodweb532:443",
+    "impact": "critical",
+    "owner": "FARMAGE",
+    "status": "active",
+    "tags": [
+      "ea"
+    ],
+    "relationships": [
+      {
+        "weight": 846.1021,
+        "id": "8e847e30-5a1d-4960-86dd-c414153f3ac0"
+      },
+      {
+        "weight": 10.7907,
+        "id": "86c09de9-d948-4ea5-9965-8292a8651a13"
+      },
+      {
+        "weight": 532.6183,
+        "id": "493e8eaf-ae47-4cf4-8f32-22f8abe7ac0c"
+      },
+      {
+        "weight": 805.4773,
+        "id": "856b390e-9065-417c-820b-77dc28d04fd6"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp804",
+    "event_id": "c4700130-1a4f-46e8-9b3c-b2c9f820ec90",
+    "description": "Transaction failed on database proddb782 database grail using username warnerca",
+    "impact": "critical",
+    "owner": "ERSUM",
+    "status": "active",
+    "tags": [
+      "excepteur",
+      "cillum",
+      "laborum",
+      "ullamco",
+      "aliqua",
+      "proident"
+    ],
+    "relationships": [
+      {
+        "weight": 713.6982,
+        "id": "be293e60-c0ac-455a-9ccc-5e07621b06bc"
+      },
+      {
+        "weight": 332.1229,
+        "id": "98b10383-9228-478a-bc19-d4de6eb3776d"
+      },
+      {
+        "weight": 133.2091,
+        "id": "53e66dde-0ca6-476f-be30-0ccbdd679038"
+      },
+      {
+        "weight": 215.9886,
+        "id": "3c29c33d-fa63-4b75-8022-f3c1f36967f2"
+      },
+      {
+        "weight": 927.4466,
+        "id": "d45eee7d-a95b-4672-9c86-12a50fd44d88"
+      },
+      {
+        "weight": 635.9067,
+        "id": "a13d7c36-5b4b-4a37-be50-e44d20540d7d"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp943",
+    "event_id": "d2b3e24e-1a3d-49e7-ab76-038bfd9ff764",
+    "description": "Connection refused from prodapp943:62887 to prodweb728:80",
+    "impact": "important",
+    "owner": "INTERGEEK",
+    "status": "inactive",
+    "tags": [
+      "sint",
+      "adipisicing",
+      "adipisicing",
+      "pariatur",
+      "Lorem"
+    ],
+    "relationships": [
+      {
+        "weight": 703.9917,
+        "id": "43a29151-1fad-4c71-9788-847364d40fb3"
+      },
+      {
+        "weight": 143.6479,
+        "id": "d177d2ea-13bd-49f9-a1d4-775069abdfe1"
+      },
+      {
+        "weight": 623.4864,
+        "id": "5b7fbe93-9e5e-40f4-803e-7a6978f780ab"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp234",
+    "event_id": "b32dbfee-684f-48a9-9dcf-09912b8425fc",
+    "description": "Connection refused from prodapp234:50067 to prodweb517:8081",
+    "impact": "critical",
+    "owner": "PHARMACON",
+    "status": "active",
+    "tags": [
+      "pariatur"
+    ],
+    "relationships": [
+      {
+        "weight": 69.0613,
+        "id": "072438fb-959a-4411-b993-7cbf09472599"
+      },
+      {
+        "weight": 314.126,
+        "id": "7d8bb140-4fe4-40e4-bb51-76efc206ca9e"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp515",
+    "event_id": "967a81c5-cebc-4e60-bbfe-56ac16ccd29b",
+    "description": "Transaction failed on database proddb210 database monty using username rojaswa",
+    "impact": "minor",
+    "owner": "CANDECOR",
+    "status": "inactive",
+    "tags": [
+      "ullamco",
+      "deserunt"
+    ],
+    "relationships": [
+      {
+        "weight": 310.085,
+        "id": "f7ebae54-b361-411a-aa2c-6cef08793c3f"
+      },
+      {
+        "weight": 924.6237,
+        "id": "f15c11bf-f021-4f2c-96cc-002e16b0b0f1"
+      },
+      {
+        "weight": 888.4283,
+        "id": "ad1e4611-b634-4575-898e-d6214f0d816f"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp778",
+    "event_id": "993f7317-8bb9-452e-9d31-9bd324dd1a1f",
+    "description": "Transaction failed on database proddb883 database python using username hollowaysh",
+    "impact": "important",
+    "owner": "ENQUILITY",
+    "status": "inactive",
+    "tags": [
+      "reprehenderit",
+      "eu",
+      "eiusmod",
+      "qui",
+      "culpa",
+      "do",
+      "ad",
+      "proident",
+      "deserunt"
+    ],
+    "relationships": [
+      {
+        "weight": 156.464,
+        "id": "5a0461e1-bd71-4b38-9449-45f6a4f454de"
+      },
+      {
+        "weight": 393.8569,
+        "id": "2af0d7a5-ee2a-4083-9473-d4ff50626fb1"
+      },
+      {
+        "weight": 517.5094,
+        "id": "65f4e90e-2ef6-4e4a-be16-4372de0ac058"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp923",
+    "event_id": "2d3d05e9-aee7-4dcd-8443-aee6ac761492",
+    "description": "Transaction failed on database proddb595 database python using username knappbu",
+    "impact": "minor",
+    "owner": "POWERNET",
+    "status": "active",
+    "tags": [
+      "nulla",
+      "laborum",
+      "exercitation"
+    ],
+    "relationships": [
+      {
+        "weight": 780.4269,
+        "id": "2625c217-c846-4889-a138-c7bca5243c8f"
+      },
+      {
+        "weight": 661.686,
+        "id": "bed457de-8bbc-4e43-966d-e50526dda6ce"
+      },
+      {
+        "weight": 917.5227,
+        "id": "ed6452af-2b30-43d6-ac9f-9604b648611e"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp207",
+    "event_id": "dc38c133-d528-4ff7-b917-af3d69aa2c75",
+    "description": "Connection refused from prodapp207:53075 to prodweb522:80",
+    "impact": "important",
+    "owner": "TALKALOT",
+    "status": "inactive",
+    "tags": [
+      "excepteur",
+      "laboris",
+      "ad"
+    ],
+    "relationships": [
+      {
+        "weight": 544.7196,
+        "id": "93f2f62d-a04b-46e8-a328-6acd85019210"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp765",
+    "event_id": "9e1f52ed-cb94-46a6-aa88-fa9faed4a394",
+    "description": "Transaction failed on database proddb672 database quest using username greerwi",
+    "impact": "important",
+    "owner": "VOLAX",
+    "status": "active",
+    "tags": [
+      "sint"
+    ],
+    "relationships": [
+      {
+        "weight": 648.7956,
+        "id": "64151a79-4599-4515-8b58-d006e93fe7f6"
+      },
+      {
+        "weight": 965.9723,
+        "id": "e3b64dc5-8c3b-446d-837e-538eb40e423f"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp037",
+    "event_id": "1e2aa61f-667d-4038-b577-803ccfeec240",
+    "description": "Transaction failed on database proddb143 database monty using username coteva",
+    "impact": "minor",
+    "owner": "PAPRIKUT",
+    "status": "inactive",
+    "tags": [],
+    "relationships": [
+      {
+        "weight": 513.49,
+        "id": "7a1daa79-5a34-489f-bccb-1e01926e3920"
+      },
+      {
+        "weight": 501.8859,
+        "id": "ce9c9b84-e86a-4632-9836-4268d4d274df"
+      },
+      {
+        "weight": 759.3215,
+        "id": "c92baac8-e7a9-4a47-b267-21e5f35ebda0"
+      },
+      {
+        "weight": 205.4344,
+        "id": "27086a44-c0e0-4d31-a469-48ee4aeaf378"
+      },
+      {
+        "weight": 862.2359,
+        "id": "45e57c79-8c8f-451a-9dac-b1d025cdc2d4"
+      },
+      {
+        "weight": 951.3531,
+        "id": "f9726f63-a1a1-4449-88f9-7c4a97d4f3bc"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp012",
+    "event_id": "cd03559e-a422-49fd-93d9-1bca499513a7",
+    "description": "Connection refused from prodapp012:40147 to prodweb447:8081",
+    "impact": "minor",
+    "owner": "FISHLAND",
+    "status": "inactive",
+    "tags": [
+      "ea",
+      "mollit",
+      "commodo"
+    ],
+    "relationships": [
+      {
+        "weight": 829.4856,
+        "id": "cd9ed4d9-6cba-487f-85be-e2efc349d078"
+      },
+      {
+        "weight": 448.8763,
+        "id": "88a5b1f7-d4b3-42ab-92e3-80b5d6ff6a30"
+      },
+      {
+        "weight": 603.9792,
+        "id": "55a7a369-f4bd-4e01-ba76-1d87c3bfa98e"
+      },
+      {
+        "weight": 367.1406,
+        "id": "e5dea00b-c53a-4383-ac0e-606d5f471d4c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp775",
+    "event_id": "81269a9f-7daa-4952-8d6d-bfc5e4e2912d",
+    "description": "Connection refused from prodapp775:54994 to prodweb189:443",
+    "impact": "important",
+    "owner": "GLUKGLUK",
+    "status": "inactive",
+    "tags": [
+      "veniam",
+      "laborum"
+    ],
+    "relationships": [
+      {
+        "weight": 962.9954,
+        "id": "f0807213-3757-49f0-a816-696015dd464f"
+      },
+      {
+        "weight": 820.4741,
+        "id": "718ffbe3-cd4d-427f-bb02-91ba64f11d7c"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp314",
+    "event_id": "53aa2748-fb7e-474c-b33e-1830dc81907b",
+    "description": "Connection refused from prodapp314:23959 to prodweb148:443",
+    "impact": "important",
+    "owner": "FUTURITY",
+    "status": "inactive",
+    "tags": [
+      "excepteur",
+      "occaecat",
+      "magna",
+      "exercitation",
+      "anim"
+    ],
+    "relationships": [
+      {
+        "weight": 44.5074,
+        "id": "ed73cfda-6a5f-4837-a907-8a1a68071642"
+      },
+      {
+        "weight": 117.4766,
+        "id": "9b55eb79-9c1f-47ea-bea9-03886541a75a"
+      }
+    ]
+  },
+  {
+    "source_host": "prodapp360",
+    "event_id": "c102c50d-cd40-4d81-ab2f-0e06f934e83a",
+    "description": "Connection refused from prodapp360:51404 to prodweb270:8081",
+    "impact": "minor",
+    "owner": "REALYSIS",
+    "status": "inactive",
+    "tags": [
+      "Lorem",
+      "id",
+      "aliqua",
+      "nisi"
+    ],
+    "relationships": [
+      {
+        "weight": 412.6884,
+        "id": "b5e1c6b7-d67b-4b58-9d99-ffc9153c9ed1"
+      },
+      {
+        "weight": 200.0768,
+        "id": "35dfadab-3a50-4450-9950-44dc56ecee5a"
+      },
+      {
+        "weight": 424.611,
+        "id": "c1b72c16-cd7c-4094-92ee-a935ef544b42"
+      }
+    ]
+  }
+]
