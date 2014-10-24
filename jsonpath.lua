@@ -115,6 +115,10 @@ local operators = {
 local path_cache = {}
 
 
+local function dump(...)
+    print(DataDumper(...), "\n---")
+end
+
 local function log_emit(level, msg)
     print(level .. " " .. os.date("%Y-%m-%d %H:%M:%S") .. "> " .. msg)
 end
@@ -498,14 +502,16 @@ local function parse_node(path, token)
         return node
     end
 
+    local token_node, i = collect_ident(token, 0, JP_TOKEN_BRACKET_OPEN)
+
     if string.sub(token, 1, 1) == "." then
         node["recurse"] = true
+        node["subject"] = string.sub(token_node, 2)
     else
         node["recurse"] = false
+        node["subject"] = token_node
     end
 
-    local token_node, i = collect_ident(token, 0, JP_TOKEN_BRACKET_OPEN)
-    node["subject"] = token_node
 
     if i >= token_len then
         return node
@@ -582,7 +588,9 @@ local function find(json_path, json_obj)
     if json_path_type == JP_TYPE_STRING then
         json_path = parse(json_path)
     elseif json_path_type ~= JP_TYPE_TABLE then
-        error("expecting string or JSONPath (table) for json_path")
+        if not json_path["path"] or not json_path["nodes"] or not json_path["tokens"] then
+            error("expecting string or JSONPath (table) for json_path")
+        end
     end
 
     if json_obj_type ~= JP_TYPE_TABLE then
@@ -590,31 +598,54 @@ local function find(json_path, json_obj)
     end
 
     local results = {}
-    local _find = function(json_path, json_obj)
+    local found_root = false
+    local node_count = table.getn(json_path.nodes)
 
-        for _, node in ipairs(json_path) do
-            -- TODO: implement the find code
+    local _traverse
+
+    local _find = function(jobj, jpath, jtokens, jnodes)
+
+        for _, node in ipairs(jnodes) do
+
+            local _results = {}
+            local node_type = node.type
+
+            if node_type == JP_TYPE_ROOT then
+                -- do nothing - may remove this in the future
+            elseif node.recurse == true then
+
+            elseif node_type == JP_TYPE_DEFAULT then
+                if jobj[node.token] then
+                    table.insert(results, jobj[node.token])
+                else
+                    break
+                end
+            elseif node_type == JP_TYPE_FILTER then
+                if jobj[node.subject] then
+
+                else
+                    break
+                end
+            elseif node_type == JP_TYPE_CONDITIONAL then
+
+            end
+
         end
 
     end
 
-    _find(json_path, json_obj)
+    _find(json_obj, json_path.path, json_path.tokens, json_path.nodes)
 
     return results
 
 end
-
-
-local function dump(...)
-    print(DataDumper(...), "\n---")
-end
-
 
 local function compile_jsonpath(path)
     print(path)
     -- parts = split(path)
     parts = parse(path)
     dump(parts)
+    return parts
 end
 
 
@@ -650,7 +681,8 @@ local function main()
     -- parse("$.store.book[$(@.author == 'J. K. Rowling')]")
     -- parse("$.store.book[1:-1]")
     for index, path in ipairs(json_paths) do
-        find(path, json_obj)
+        local jp = compile_jsonpath(path)
+        find(jp, json_obj)
     end
 
 end
